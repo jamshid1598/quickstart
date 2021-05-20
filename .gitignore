@@ -1,0 +1,6 @@
+*.sqlite3
+static_root/
+env/
+.env/
+media_root/
+media/
